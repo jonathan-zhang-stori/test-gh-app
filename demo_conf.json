@@ -20,7 +20,7 @@
 		"is_delete_data":0
 	},
 	{
-		"logic_table_name":"cc_dp_test_1",
+		"logic_table_name":"cc_dp_test_2",
 		"db_prefix":"stmtA",
 		"is_extract_old_db":1,
 		"extract_type":"hh",
