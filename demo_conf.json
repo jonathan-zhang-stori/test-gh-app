@@ -38,5 +38,15 @@
 		"priority_id":2,
 		"is_data_update":1,
 		"is_delete_data":0
+	},
+	{
+		"logic_table_name":"cc_test_t_1",
+		"db_prefix":"stmtA",
+		"is_extract_old_db":1,
+		"extract_type":"dd",
+		"extraction_batch_id":141003,
+		"priority_id":2,
+		"is_data_update":0,
+		"is_delete_data":0
 	}
 ]
